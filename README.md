@@ -1,19 +1,20 @@
 ### Olá, eu sou o Tiago! 👋
 
-Sou um Desenvolvedor Fullstack (React | Node.js) em transição de carreira após 20 anos como Chef.<br>
-Combino a disciplina e gestão de equipas da alta gastronomia com a paixão pelo código.
+[cite_start]Sou um Desenvolvedor Fullstack (React | Node.js) [cite: 2, 17, 18] [cite_start]em transição de carreira após 20 anos na gestão de operações e precisão culinária[cite: 10]. 
+[cite_start]Combino a disciplina, tolerância zero a falhas e liderança da alta gastronomia com a paixão pela construção de software escalável[cite: 11, 12].
 
-- 🔭 Atualmente a trabalhar no meu SaaS: **DocFacil.pt**
-- 🌱 A aprender: **Next.js, NestJS e Arquitetura de Microserviços**
-- ⚡ Facto curioso: A cozinha profissional é o "Agile original" e eu trago essa experiência para o desenvolvimento de software.
-- 🎓 Certificações: **Certified ScrumMaster (CSM®)** e **Team Kanban Practitioner (TKP®)**
+- [cite_start]🔭 **Em destaque:** Fundador e Lead Developer do **[DocFacil.pt](https://docfacil.pt)**[cite: 24]. [cite_start]Uma plataforma SaaS de LegalTech em produção com **+300 utilizadores ativos**[cite: 26]. 
+- [cite_start]💻 **O que construo:** Motores de geração de PDFs dinâmicos [cite: 28][cite_start], sistemas complexos de subscrição com Stripe (Webhooks) [cite: 29] [cite_start]e autenticação robusta (Google OAuth 2.0 / JWT)[cite: 30].
+- [cite_start]🌱 **A aprender:** Next.js, NestJS, Arquitetura de Microserviços e TypeScript[cite: 50, 63].
+- ⚡ **Facto curioso:** A cozinha profissional é o "Agile original". [cite_start]Liderar equipas de mais de 20 pessoas sob pressão extrema ensinou-me a entregar resultados "Just-in-Time"[cite: 10, 43, 44].
+- [cite_start]🎓 **Certificações Ágeis:** Certified ScrumMaster (CSM®) [cite: 60][cite_start], Team Kanban Practitioner (TKP®) [cite: 61] [cite_start]e Certified Agile Coach (CAC®)[cite: 62].
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,postgres,html,css,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,postgres,tailwind,redux,vite,html,css,git,github,vscode,postman" />
 </div>
 
 ---
