@@ -31,4 +31,4 @@ Founder at **[MergeDesks](https://mergedesks.com)** & **[GastroSpec Radar](https
 * 🌐 **MergeDesks:** [mergedesks.com](https://mergedesks.com)
 * 📡 **GastroSpec Radar:** [gastrospec.app](https://gastrospec.app)
 * 💼 **LinkedIn:** [linkedin.com/in/tiago-araujo-45924b217](https://www.linkedin.com/in/tiago-araujo-45924b217/)
-* ✉️ **Email:** [hello@mergedesks.com](mailto:hello@mergedesks.com)
+
